@@ -1,2 +1,9 @@
 # Ignore bin files
 a.out
+
+# emacs files:
+*~
+*#*
+
+# Mac OS X files:
+.DS_Store
